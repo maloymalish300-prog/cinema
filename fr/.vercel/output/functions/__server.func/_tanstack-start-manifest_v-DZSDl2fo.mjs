@@ -1,7 +1,7 @@
-//#region node_modules/.nitro/vite/services/ssr/assets/_tanstack-start-manifest_v-CSEP5Kno.js
+//#region node_modules/.nitro/vite/services/ssr/assets/_tanstack-start-manifest_v-DZSDl2fo.js
 var tsrStartManifest = () => ({ routes: {
 	__root__: {
-		filePath: "/workspace/src/routes/__root.tsx",
+		filePath: "/home/project/fr/src/routes/__root.tsx",
 		children: [
 			"/",
 			"/afisha",
@@ -17,7 +17,7 @@ var tsrStartManifest = () => ({ routes: {
 		} }]
 	},
 	"/": {
-		filePath: "/workspace/src/routes/index.tsx",
+		filePath: "/home/project/fr/src/routes/index.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/routes-BxSsBaJB.js",
@@ -26,7 +26,7 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/afisha": {
-		filePath: "/workspace/src/routes/afisha.tsx",
+		filePath: "/home/project/fr/src/routes/afisha.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/afisha-DSlGHxmG.js",
@@ -35,12 +35,12 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/hall": {
-		filePath: "/workspace/src/routes/hall.tsx",
+		filePath: "/home/project/fr/src/routes/hall.tsx",
 		children: void 0,
 		preloads: ["/assets/hall-CZI0oPpX.js", "/assets/cinema-C6gfHarw.js"]
 	},
 	"/orders": {
-		filePath: "/workspace/src/routes/orders.tsx",
+		filePath: "/home/project/fr/src/routes/orders.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/orders-Bp2gpKmC.js",
@@ -49,7 +49,7 @@ var tsrStartManifest = () => ({ routes: {
 		]
 	},
 	"/ticket": {
-		filePath: "/workspace/src/routes/ticket.tsx",
+		filePath: "/home/project/fr/src/routes/ticket.tsx",
 		children: void 0,
 		preloads: [
 			"/assets/ticket-Bn8O7eIa.js",

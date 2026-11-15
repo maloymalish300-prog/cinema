@@ -1,0 +1,11 @@
+{
+  "name": "venera-cinema-root",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "cd fr && npm run dev",
+    "build": "cd fr && npm install --no-audit --no-fund && npm run build",
+    "start": "cd fr && npm run dev",
+    "typecheck": "cd fr && npm run typecheck"
+  }
+}
