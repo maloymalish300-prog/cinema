@@ -1,0 +1,10 @@
+# The deployable app lives in fr/ (TanStack Start, built with Nitro).
+# Nitro's netlify preset writes static assets to dist/ and the server
+# function to .netlify/v1/functions via the Netlify Frameworks API.
+[build]
+  base = "fr"
+  command = "npm install --no-audit --no-fund && npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "24"
