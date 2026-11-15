@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/ticket",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Купить билет — Венера",
+      "hasCanvas": false,
+      "bodyTextLen": 1414,
+      "bodyTextHash": "e491dcfe59a7878eafffdd05a89da846bbd3d392c03b4e594ad86e2f236a20f8",
+      "bodyTextPrefix": "К содержанию ВЕНЕРА Афиша Сеансы Зал Мои билеты Купить билет КАС",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/ticket-2.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Купить билет — Венера",
+      "hasCanvas": false,
+      "bodyTextLen": 1433,
+      "bodyTextHash": "ea1dd0c8a6f911b2d574b52da240db50e0c633d32faa6c9f205b7acf71de6a24",
+      "bodyTextPrefix": "К содержанию ВЕНЕРА КАССА Выбор ряда и стоимость Ночной прилив: ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/ticket-2-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/ticket-2.json"
+}

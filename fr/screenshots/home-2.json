@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Венера — кинотеатр",
+      "hasCanvas": false,
+      "bodyTextLen": 3303,
+      "bodyTextHash": "5055ae40a3cea6dd6775cc8e6da4f1c9832b096dbe31f055e0d0bc9e620c7101",
+      "bodyTextPrefix": "К содержанию ВЕНЕРА Афиша Сеансы Зал Мои билеты Купить билет КИН",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/home-2.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Венера — кинотеатр",
+      "hasCanvas": false,
+      "bodyTextLen": 3262,
+      "bodyTextHash": "f20e332863a4368e5adc615b755a17049f973bbaf0ff0d65f46b38fdeb0df596",
+      "bodyTextPrefix": "К содержанию ВЕНЕРА КИНОТЕАТР · МОСКВА Венера Чёрный зал, белый ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/home-2-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/home-2.json"
+}
